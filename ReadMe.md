@@ -9,10 +9,10 @@ Umatrixの書き出しも行えます。
  - cuda 8.0
  - cudnn 6.0
 # 3 ディレクトリ構成
-├─BLSOM<br>
-    └─sample<br>
-       ├─result<br>
-       └─train<br>
+└─BLSOM<br>
+　　└─sample<br>
+　　　　├─result<br>
+　　　　└─train<br>
 
 ## train<br>
   学習サンプルのデータが格納されています<br>

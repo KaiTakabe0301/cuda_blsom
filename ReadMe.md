@@ -1,4 +1,4 @@
-# blsom
+# cuda_blsom
 
 # 1 概要
 [一括学習型自己組織化マップ(BMSOM)](http://bioinfo.ie.niigata-u.ac.jp/?SOM%E3%81%A8%E3%81%AF#oed7b8fd)の学習を、GPUを用いて高速に行います。<br>
